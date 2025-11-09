@@ -19,7 +19,7 @@ Each time new high-probability Slater determinants are added and the optimizer r
 ---
 
 #### 💡 Maintain chemical accuracy across correlation regimes
-From weakly to strongly correlated systems, CVQE consistently reaches **chemical-precision accuracy** with a single fixed entangler.  
+From weakly to strongly correlated systems, CVQE consistently reaches **chemical accuracy** with a single fixed entangler.  
 It unifies the treatment of diverse systems under one stable, automated workflow.
 
 ---
